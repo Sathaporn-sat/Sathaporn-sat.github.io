@@ -2,6 +2,6 @@
 - Sathaporn Sattayachiti
   - Boom
   
-  ![รูปส่วนตัว](รูป.jpg)
+  ![รูปส่วนตัว](img/รูป.jpg)
   
 - [คำศัพท์](whiteboxtesting.md)
