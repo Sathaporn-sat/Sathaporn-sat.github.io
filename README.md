@@ -9,6 +9,6 @@
           
     
   
-  ![รูปส่วนตัว](img/รูป.jpg)
+  ![รูปส่วนตัว](img/imgme.jpg)
   
 - [คำศัพท์](whiteboxtesting.md)
