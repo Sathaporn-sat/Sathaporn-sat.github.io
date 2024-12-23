@@ -1,4 +1,4 @@
-WhiteboxTesting
+# WhiteboxTesting
  -  [CISSP Glossary](https://www.isc2.org/certifications/cissp/cissp-student-glossary#w)
      -  A design that allows one to peek inside the “box” and focuses specifically on using internal knowledge of the\ software to guide the selection of test data.
       -  การออกแบบที่ช่วยให้สามารถ “มองเข้าไปในกล่อง” และเน้นเฉพาะการใช้ความรู้ภายในเกี่ยวกับซอฟต์แวร์เพื่อเป็นแนวทางในการเลือกชุดข้อมูลสำหรับการทดสอบ
