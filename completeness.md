@@ -4,7 +4,7 @@
  For customer data, it shows the minimum information essential for a productive engagement. 
  For example, if the customer address includes an optional landmark attribute,
  data can be considered complete even when the landmark information is missing.
- - Source: [collibra](https://www.collibra.com/us/en/blog/the-6-dimensions-of-data-quality)
+Source: [collibra](https://www.collibra.com/us/en/blog/the-6-dimensions-of-data-quality)
 # Meaning by ChatGPT
 มิติข้อมูลนี้สามารถครอบคลุมคุณลักษณะหลากหลายตามประเภทของเอนทิตีที่เกี่ยวข้อง สำหรับข้อมูลลูกค้า มันแสดงถึงข้อมูลขั้นต่ำที่จำเป็นสำหรับการมีปฏิสัมพันธ์ที่มีประสิทธิภาพ ตัวอย่างเช่น หากที่อยู่ลูกค้ามีคุณสมบัติย่อยอย่างสถานที่สำคัญ (Landmark) ซึ่งเป็นข้อมูลเสริม ข้อมูลยังถือว่าครบถ้วนได้แม้ว่าจะไม่มีข้อมูลสถานที่สำคัญนี้ก็ตาม
 # Meaning by Gemeni
