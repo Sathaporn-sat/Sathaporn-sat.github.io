@@ -1,5 +1,5 @@
 # Completeness
-# Definition
+## Definition
 This dimension can cover a variety of attributes depending on the entity. 
 For customer data, it shows the minimum information essential for a productive engagement. 
 For example, if the customer address includes an optional landmark attribute,
