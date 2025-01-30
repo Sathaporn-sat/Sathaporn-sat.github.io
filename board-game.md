@@ -29,18 +29,18 @@
 
 
 ## ภาพกิจกรรม
-![GamePlay1](/Image/GamePlay1.jpg)
-![GamePlay2](/Image/GamePlay2.png)
-![Group_photo](/Image/BoardGame_Group_photo.jpg)
+![GamePlay1](/img/GamePlay1.jpg)
+![GamePlay2](/img/GamePlay2.png)
+![Group_photo](/img/BoardGame_Group_photo.jpg)
 
 ## วิดีโอกิจกรรม
-[![Cyber Board Game](/Image/Cyber_Board_Game.png)](https://www.youtube.com/watch?v=NffqxQwekAQ&list=LL&index=2 "Cyber Board Game")
+[![Cyber Board Game](/img/Cyber_Board_Game.png)](https://www.youtube.com/watch?v=NffqxQwekAQ&list=LL&index=2 "Cyber Board Game")
 
 ## Note
 **ทางกลุ่มผู้จัดทำได้ขออนุญาตแล้ว ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media**
 
 ## สมาชิกคนอื่นในกลุ่ม
-#### - [1]()
+#### - [1]( )
 #### - [Mr.Porawapat Mutarapat]()
 #### - [Mr.Nontawat Phunpuek]()
 #### - [Mr.Sathaporn Sattayachiti]()
