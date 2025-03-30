@@ -2,7 +2,7 @@
 
 ---
 ## **Face ID & Touch ID  ของ มือถือ Xiaomi MI 9T PRO**
-![security-control](img/security_control.jng)
+![security-control](img/security_control.jpg)
 
 ---
 
